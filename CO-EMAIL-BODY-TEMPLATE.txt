@@ -1,0 +1,10 @@
+Hi  {FNAME},
+<br/>
+Please download your KES notice.<br/>
+<br/>
+<a href='http://localhost:9595/pdf?caseid={CASE-ID}'>
+Click Here To Download a Notice</a> <br/>
+<br/>
+
+Thanks & Regards,<br/>
+VaibhavTech .<br/>
